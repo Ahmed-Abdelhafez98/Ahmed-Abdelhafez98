@@ -5,7 +5,7 @@
 - 🔭 Currently working on multi-tenant backend services and LLM-powered agent tooling
 - 🌱 Deepening my work in AI agents (ReAct pattern, LangChain, tool calling) and distributed systems
 - 💬 Ask me about Laravel, NestJS, REST API design, Docker and PostgreSQL
-- 🌐 Website and write-ups: [ahmed-abdelhafez98.github.io](https://ahmed-abdelhafez98.github.io)
+- 🌐 Website and write-ups: [ahmedemad.is-a.dev](https://ahmedemad.is-a.dev)
 - 📫 Reach me at [ahmed.emad.abdelhafez@gmail.com](mailto:ahmed.emad.abdelhafez@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ahmed-abdelhafez/)
 
 ## 🛠 Tech stack
@@ -47,6 +47,6 @@ More on the [repositories tab](https://github.com/Ahmed-Abdelhafez98?tab=reposit
 
 ## 📬 Contact
 
-[![Website](https://img.shields.io/badge/Website-ahmed--abdelhafez98.github.io-4cc2ff?style=flat-square&logo=astro&logoColor=black)](https://ahmed-abdelhafez98.github.io)
+[![Website](https://img.shields.io/badge/Website-ahmedemad.is--a.dev-4cc2ff?style=flat-square&logo=astro&logoColor=black)](https://ahmedemad.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abdelhafez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelhafez/)
 [![Email](https://img.shields.io/badge/Email-ahmed.emad.abdelhafez%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.emad.abdelhafez@gmail.com)
