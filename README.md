@@ -47,8 +47,8 @@ More on the [repositories tab](https://github.com/Ahmed-Abdelhafez98?tab=reposit
 ## 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelhafez98&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdelhafez98&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-Abdelhafez98&theme=github_dark" alt="GitHub stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Abdelhafez98&theme=github_dark" alt="Top languages" />
 </p>
 
 ## 📬 Contact
