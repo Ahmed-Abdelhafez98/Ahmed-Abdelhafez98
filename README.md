@@ -35,11 +35,11 @@
 
 | Project | Stack | What it is |
 |---|---|---|
-| [**Carta**](https://github.com/Ahmed-Abdelhafez98/Carta) | Laravel · MySQL | Multi-tenant restaurant menu management REST API with hierarchical categories, variants and modifiers |
+| [**MenuKit**](https://github.com/Ahmed-Abdelhafez98/MenuKit) | Laravel · MySQL | Multi-tenant restaurant menu management REST API with hierarchical categories, variants and modifiers |
 | [**PriceHub**](https://github.com/Ahmed-Abdelhafez98/PriceHub) | NestJS · Prisma · PostgreSQL | Price aggregation API that normalizes pricing from multiple providers, with SSE live updates and price history |
-| [**Reactor**](https://github.com/Ahmed-Abdelhafez98/Reactor) | Python · LangChain · Ollama | AI agent execution service built on the ReAct pattern: reasons, decides and calls tools |
+| [**AgentRunner**](https://github.com/Ahmed-Abdelhafez98/AgentRunner) | Python · LangChain · Ollama | AI agent execution service built on the ReAct pattern: reasons, decides and calls tools |
 | [**Unlimited-Talk**](https://github.com/Ahmed-Abdelhafez98/Unlimited-Talk) | Ruby on Rails · Elasticsearch · Sidekiq | Multi-application chat API with full-text message search and queued writes |
-| [**Castra**](https://github.com/Ahmed-Abdelhafez98/Castra) | Node.js · Express · MongoDB | Camping discovery community with campgrounds, reviews, photo uploads and maps |
+| [**CampSpot**](https://github.com/Ahmed-Abdelhafez98/CampSpot) | Node.js · Express · MongoDB | Camping discovery community with campgrounds, reviews, photo uploads and maps |
 | [**Hobbies**](https://github.com/Ahmed-Abdelhafez98/Hobbies) | Laravel · Vue | Social network for sharing hobbies and discovering new ones |
 
 More on the [repositories tab](https://github.com/Ahmed-Abdelhafez98?tab=repositories) — Taskflow, Tasko, Platter, Chatly, Skycast, Shelfmate, Quicklist and more.
