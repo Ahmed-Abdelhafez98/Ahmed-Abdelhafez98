@@ -44,13 +44,6 @@
 
 More on the [repositories tab](https://github.com/Ahmed-Abdelhafez98?tab=repositories) — Taskflow, Tasko, Platter, Chatly, Skycast, Shelfmate, Quicklist and more.
 
-## 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-Abdelhafez98&theme=github_dark" alt="GitHub stats" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Abdelhafez98&theme=github_dark" alt="Top languages" />
-</p>
-
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abdelhafez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelhafez/)
